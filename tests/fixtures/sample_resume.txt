@@ -1,0 +1,16 @@
+Maya Chen
+maya.chen@example.test
+
+Skills
+Python, SQL, Pandas, scikit-learn, Data Visualization, Git
+
+Experience
+Data Analyst | Northstar Labs | 2022 - Present
+- Built Python and SQL reporting pipelines for customer operations.
+- Created Tableau dashboards to explain weekly product trends.
+
+Education
+Bachelor of Science in Statistics, Fictional State University, 2021
+
+Projects
+Customer churn analysis using Python and scikit-learn.

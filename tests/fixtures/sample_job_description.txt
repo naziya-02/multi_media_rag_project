@@ -1,0 +1,18 @@
+Senior Data Analyst
+
+Responsibilities
+- Analyze product and customer data and communicate clear findings.
+- Build repeatable data pipelines and visual dashboards.
+- Partner with product managers to define metrics.
+
+Required skills
+- Python and SQL
+- Data visualization and statistics
+- At least 3 years of experience in data analysis
+
+Preferred skills
+- Tableau
+- Machine learning
+
+Qualifications
+- Bachelor's degree in statistics, mathematics, or a related field.

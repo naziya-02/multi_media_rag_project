@@ -1,0 +1,1 @@
+"""HireSense AI application logic."""
